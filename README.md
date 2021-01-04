@@ -15,5 +15,8 @@
 
 4. - [x] Project Images.
     * sprites images 
+    
+5. - [x] SOC additonal Sources.
+    * This contains all the needed sources files in the hardware and software to run the project, which also needs to have ip components such as a MicroBlaze MCS (cpu), XADC configuration / instantiation and clock management (under vivado clocking wizard) for four clocks of 100, 25, 40 and 65 MHZ.
 
-5. - [x] Video implemetation of the final project using the FPGA board and a monitor. **[Click here for the Final video ](https://youtu.be/wjzRvunuTA8)**
+6. - [x] Video implemetation of the final project using the FPGA board and a monitor. **[Click here for the Final video ](https://youtu.be/wjzRvunuTA8)**
